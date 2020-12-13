@@ -1,0 +1,21 @@
+{
+  "name": "NotionPageTesting",
+  "version": "1.0.0",
+  "description": "Testing notion page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "node ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/todev-me/NotionPageTesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/todev-me/NotionPageTesting/issues"
+  },
+  "homepage": "https://github.com/todev-me/NotionPageTesting#readme"
+}
